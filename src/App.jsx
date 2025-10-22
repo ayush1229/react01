@@ -4,7 +4,7 @@ import Card from './components/Card'
 
 const Hello = () => {
   return (
-    <div>
+    <div className='parent'>
       <Card />
     </div>
   )
